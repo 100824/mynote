@@ -38,7 +38,7 @@ Markdown PDF 可以直接导出pdf
 * ctrl+shift+ N  打开新的窗口
 * ctrl+shift+ W  关闭当前窗口
 * ctrl+ P 快速打开
-* ctrl+shift+ P 显示命令面板
+* ctrl+shift+ P  显示命令面板(同F1)
 * ctrl+shift+ \  跳转到匹配括号
 * ALT+ ↑  ↓    当前行上移下移
 * ctrl + C    复制行
