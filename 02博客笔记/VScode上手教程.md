@@ -60,3 +60,4 @@ Markdown PDF 可以直接导出pdf
 * 继续F5  下一个断点 
 * F11 下一步
 * shift + F5  停止调试
+* ctrl + 1,2,3 切换左中右窗口
